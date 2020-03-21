@@ -1,0 +1,114 @@
+
+
+*******************************************************************************
+Tue Nov 12 01:06:49 2019
+
+
+FIT:    data read from datafile u 1:2
+        format = x:z
+        #datapoints = 1876
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*sin(b*x + c) + d
+fitted parameters initialized with current variable values
+
+  21 1.6176382949e+03  -1.20e-01  1.69e-04   -5.029019e+00   9.928280e-01   1.270815e+01  -4.138389e+00
+
+After 21 iterations the fit converged.
+final sum of squares of residuals : 1617.64
+rel. change during last iteration : -1.19514e-06
+
+degrees of freedom    (FIT_NDF)                        : 1872
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.929582
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.864123
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -5.02902         +/- 0.03028      (0.602%)
+b               = 0.992828         +/- 0.001491     (0.1502%)
+c               = 12.7081          +/- 0.01254      (0.09866%)
+d               = -4.13839         +/- 0.02191      (0.5293%)
+
+correlation matrix of the fit parameters:
+                a      b      c      d      
+a               1.000 
+b              -0.092  1.000 
+c               0.085 -0.870  1.000 
+d              -0.173  0.107 -0.073  1.000 
+
+
+*******************************************************************************
+Tue Nov 12 02:32:45 2019
+
+
+FIT:    data read from datafile u 1:2
+        format = x:z
+        #datapoints = 1876
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*sin(b*x + c) + d
+fitted parameters initialized with current variable values
+
+  21 1.6176382949e+03  -1.20e-01  1.69e-04   -5.029019e+00   9.928280e-01   1.270815e+01  -4.138389e+00
+
+After 21 iterations the fit converged.
+final sum of squares of residuals : 1617.64
+rel. change during last iteration : -1.19514e-06
+
+degrees of freedom    (FIT_NDF)                        : 1872
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.929582
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.864123
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -5.02902         +/- 0.03028      (0.602%)
+b               = 0.992828         +/- 0.001491     (0.1502%)
+c               = 12.7081          +/- 0.01254      (0.09866%)
+d               = -4.13839         +/- 0.02191      (0.5293%)
+
+correlation matrix of the fit parameters:
+                a      b      c      d      
+a               1.000 
+b              -0.092  1.000 
+c               0.085 -0.870  1.000 
+d              -0.173  0.107 -0.073  1.000 
+
+
+*******************************************************************************
+Tue Nov 12 02:33:31 2019
+
+
+FIT:    data read from datafile u 1:2
+        format = x:z
+        #datapoints = 1876
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*sin(b*x + c) + d
+fitted parameters initialized with current variable values
+
+  21 1.6176382949e+03  -1.20e-01  1.69e-04   -5.029019e+00   9.928280e-01   1.270815e+01  -4.138389e+00
+
+After 21 iterations the fit converged.
+final sum of squares of residuals : 1617.64
+rel. change during last iteration : -1.19514e-06
+
+degrees of freedom    (FIT_NDF)                        : 1872
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.929582
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.864123
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -5.02902         +/- 0.03028      (0.602%)
+b               = 0.992828         +/- 0.001491     (0.1502%)
+c               = 12.7081          +/- 0.01254      (0.09866%)
+d               = -4.13839         +/- 0.02191      (0.5293%)
+
+correlation matrix of the fit parameters:
+                a      b      c      d      
+a               1.000 
+b              -0.092  1.000 
+c               0.085 -0.870  1.000 
+d              -0.173  0.107 -0.073  1.000 

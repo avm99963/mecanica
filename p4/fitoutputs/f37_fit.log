@@ -1,0 +1,114 @@
+
+
+*******************************************************************************
+Tue Nov 12 01:06:53 2019
+
+
+FIT:    data read from datafile u 1:2
+        format = x:z
+        #datapoints = 1876
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*sin(b*x + c) + d
+fitted parameters initialized with current variable values
+
+  18 9.9220257075e+02   0.00e+00  6.56e+07   -1.155269e+01   2.295982e+00  -4.414035e-01  -3.878259e+00
+
+After 18 iterations the fit converged.
+final sum of squares of residuals : 992.203
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1872
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.728027
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.530023
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -11.5527         +/- 0.02384      (0.2064%)
+b               = 2.29598          +/- 0.0004759    (0.02073%)
+c               = -0.441403        +/- 0.004052     (0.918%)
+d               = -3.87826         +/- 0.01687      (0.4349%)
+
+correlation matrix of the fit parameters:
+                a      b      c      d      
+a               1.000 
+b              -0.050  1.000 
+c               0.043 -0.861  1.000 
+d              -0.072  0.002  0.018  1.000 
+
+
+*******************************************************************************
+Tue Nov 12 02:32:48 2019
+
+
+FIT:    data read from datafile u 1:2
+        format = x:z
+        #datapoints = 1876
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*sin(b*x + c) + d
+fitted parameters initialized with current variable values
+
+  18 9.9220257075e+02   0.00e+00  6.56e+07   -1.155269e+01   2.295982e+00  -4.414035e-01  -3.878259e+00
+
+After 18 iterations the fit converged.
+final sum of squares of residuals : 992.203
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1872
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.728027
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.530023
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -11.5527         +/- 0.02384      (0.2064%)
+b               = 2.29598          +/- 0.0004759    (0.02073%)
+c               = -0.441403        +/- 0.004052     (0.918%)
+d               = -3.87826         +/- 0.01687      (0.4349%)
+
+correlation matrix of the fit parameters:
+                a      b      c      d      
+a               1.000 
+b              -0.050  1.000 
+c               0.043 -0.861  1.000 
+d              -0.072  0.002  0.018  1.000 
+
+
+*******************************************************************************
+Tue Nov 12 02:33:34 2019
+
+
+FIT:    data read from datafile u 1:2
+        format = x:z
+        #datapoints = 1876
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*sin(b*x + c) + d
+fitted parameters initialized with current variable values
+
+  18 9.9220257075e+02   0.00e+00  6.56e+07   -1.155269e+01   2.295982e+00  -4.414035e-01  -3.878259e+00
+
+After 18 iterations the fit converged.
+final sum of squares of residuals : 992.203
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 1872
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.728027
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.530023
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -11.5527         +/- 0.02384      (0.2064%)
+b               = 2.29598          +/- 0.0004759    (0.02073%)
+c               = -0.441403        +/- 0.004052     (0.918%)
+d               = -3.87826         +/- 0.01687      (0.4349%)
+
+correlation matrix of the fit parameters:
+                a      b      c      d      
+a               1.000 
+b              -0.050  1.000 
+c               0.043 -0.861  1.000 
+d              -0.072  0.002  0.018  1.000 
